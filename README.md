@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - CyberSecurity
 - Software Development
+- Splunk
 
 ## 💼 Technical Skills
 
